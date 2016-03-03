@@ -3,3 +3,10 @@ A friend wanted to not have to copy and paste a bunch of stuff from a bunch of G
 
 IPython Notebook viewer [here](https://nbviewer.jupyter.org/github/jgysland/maine-dems-caucus-scraper/blob/master/maine-caucus-locations-times.ipynb).
 
+## Play Along At Home
+
+1. Have Python 2.7 and Jupyter installed. 
+2. Clone this repo, run `pip install -r requirements.txt`, then run the code in the notebook.
+3. ??? (win at caucusing?)
+4. Profit!!!
+
